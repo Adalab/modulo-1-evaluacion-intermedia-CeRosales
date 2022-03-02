@@ -24,14 +24,15 @@
   list-style: none;
   display: inline-flex;
   margin-bottom: 13px;
+  margin-top: 10px;
 }
 
 .li-blog {
-  padding-right: 10px;
+  margin-right: 10px;
 }
 
 .li-contact {
-  padding-left: 10px;
+  margin-left: 10px;
 }
 
 .main {
